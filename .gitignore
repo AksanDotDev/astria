@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+astria.config.ini
+astria.channel.csv
+astria.user.csv
