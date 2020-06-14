@@ -1,0 +1,5 @@
+[core]
+token = FromDiscord
+channelfile = astria.channel.csv
+userfile = astria.user.csv
+salt = AndPepper
